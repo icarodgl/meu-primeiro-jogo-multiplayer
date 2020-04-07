@@ -1,0 +1,20 @@
+{
+    "name": "icarodgl-release",
+    "version": "1.0.0",
+    "description": "seguindo o tutorial",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "game"
+    ],
+    "author": "icarodgl",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    }
+}
